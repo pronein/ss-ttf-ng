@@ -24,10 +24,6 @@ export const MENU: MenuItem[] =
       ]
     },
     {
-      name: 'Not Dropdown',
-      subItems: []
-    },
-    {
       name: 'Schedule',
       subItems: [
         {name: 'Daily', subItems: []},
